@@ -8,6 +8,7 @@
   * Victor Sin Yu Chen (vsyc) - Crawler
   
   Git do projeto original: [Projeto - IF962](https://github.com/acff/Projeto-RI)
+  Artefatos adquiridos pelo Crawler: [Google Drive](https://drive.google.com/file/d/0B7lk8ZozkD0wY3llU1hQT3drSDQ/view?usp=sharing) - Tempo gasto: 7803871 ms, um pouco mais de 2 horas (Obs.: Grande parte da demora deve-se ao System.out.println()).
 
 # Requisitos
 
@@ -18,6 +19,6 @@
   1. Abra o Prompt de Comando na pasta do projeto.
   2. Rode os comandos:
      1. mvn clean
-	 2. mvn compile
-	 3. mvn package
-	 4. mvn exec:java -Dexec.mainClass="SpiderMain"
+     2. mvn compile
+     3. mvn package
+     4. mvn exec:java -Dexec.mainClass="SpiderMain"
