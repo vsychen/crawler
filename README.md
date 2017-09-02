@@ -1,6 +1,13 @@
 # Crawler
 
   Crawler implementado para disciplina de Recuperação de Informação (IF692) do Centro de Informática, UFPE.
+  
+  Grupo:
+  * Ana Caroline Ferreira de França (acff) - Classifier
+  * Thiago Aquino Santos (tas4) - Wrapper
+  * Victor Sin Yu Chen (vsyc) - Crawler
+  
+  Git do projeto original: [Projeto - IF962](https://github.com/acff/Projeto-RI)
 
 # Requisitos
 
